@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment configuration
+.env
+
+# API keys and other sensitive information
+.env.local
+.env.development
+.env.test
+.env.production
+
+# npm configuration
+npm-debug.log
+*.npmrc
+
+# Yarn configuration
+yarn-error.log
+.yarn-integrity
+
+# Testing
+coverage/
+
+# Build files
+build/
+dist/
+
+# Dependency directories
+.jenkins/
+
+# Output of 'npm pack'
+*.tgz
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Node-RED
+node-red/node_modules/
